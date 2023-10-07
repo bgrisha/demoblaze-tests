@@ -1,0 +1,26 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="Selenium Suite" parallel="false">-->
+<!--&lt;!&ndash;           <listeners>&ndash;&gt;-->
+<!--&lt;!&ndash;               <listener class-name="myProject.AutomationListener"/>&ndash;&gt;-->
+<!--&lt;!&ndash;          </listeners>&ndash;&gt;-->
+<!--    <test name="My Selenium Tests" parallel="false">-->
+<!--        <groups>-->
+<!--            <run>-->
+<!--                &lt;!&ndash;  <include name="filterAndValidateProducts"/>&ndash;&gt;-->
+<!--                &lt;!&ndash;  <include name="second"/>&ndash;&gt;-->
+<!--                &lt;!&ndash;  <include name="third"/>&ndash;&gt;-->
+<!--                &lt;!&ndash;  <include name="four"/>&ndash;&gt;-->
+
+
+<!--            </run>-->
+<!--        </groups>-->
+<!--        <classes>-->
+<!--            <class name="myProject.FilterProductsTest"/>-->
+
+<!--        </classes>-->
+
+<!--    </test>-->
+<!--</suite>-->
+
+        <!--      allure serve "C:\TestAutomationLastProject\Selenium\allure-results"   -->
